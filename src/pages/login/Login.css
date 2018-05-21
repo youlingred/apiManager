@@ -1,0 +1,13 @@
+.login-bg{
+    background-image: url('../../assets/img/login_bg.jpg ');
+}
+.Login-form {
+    position: fixed;
+    left: 80%;
+    top: 30%;
+    width: 25rem;
+    margin-left: -12.5rem;
+    margin-top: -135px;
+    border: 1px solid #e6e6e6;
+    border-radius: .5rem;
+}
